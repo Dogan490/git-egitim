@@ -1,5 +1,5 @@
-# Git EÄŸitimim
+# Git Eğitimim
 
-Bu repository Git Ã¶ÄŸrenmek iÃ§in oluÅŸturuldu.
+Bu repository Git öğrenmek için oluşturuldu.
 
-## Staj iÃ§in Git Ã¶ÄŸreniyorum.
+## Master branch güncellendi.
